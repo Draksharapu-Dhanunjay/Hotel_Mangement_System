@@ -1,8 +1,11 @@
 # Hotel_Mangement_System
-This is a Project I developed a hotel management system using core java and MySQL as database management system. This implemented project provides the basic functionality of hotel management system. 
+This is a Project on hotel management system based on core Java and MySQL. This implemented project provides the basic functionality of hotel management system.
 
 ## Setup
 * Clone the github repo into local computer
+  ```shell
+      git clone https://github.com/Draksharapu-Dhanunjay/Hotel_Mangement_System.git
+  ```
 * First create a temporary database in MySQL
   ```shell
         CREATE DATABASE hotel_database;
